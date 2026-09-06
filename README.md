@@ -216,6 +216,9 @@ Customer_Behaviour_Dashboard.pbix
 ```
 
 ---
+## Dashboard Preview
+
+![Customer Shopping Behavior Dashboard](dashboard_preview.png)
 
 ## 💡 Key Analysis Areas
 
