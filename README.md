@@ -246,19 +246,12 @@ These questions were answered using SQL aggregations, filtering, subqueries, CTE
 
 ## 📁 Project Structure
 
-```text
-Customer-Shopping-Behavior-Analytics/
-│
-├── customer_shopping_behavior.csv
-│
-├── Customer_shopping.ipynb
-│
-├── customer_shopping.sql
-│
 ├── Customer_Behaviour_Dashboard.pbix
-│
-└── README.md
-```
+├── Customer_shopping.ipynb
+├── README.md
+├── customer_shopping.sql
+├── customer_shopping_behavior.csv
+└── dashboard_preview.png
 
 ---
 
