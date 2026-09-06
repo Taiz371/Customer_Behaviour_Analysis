@@ -244,16 +244,16 @@ These questions were answered using SQL aggregations, filtering, subqueries, CTE
 
 ---
 
-## 📁 Project Structure
+### 📁 Project Structure
 
+```text
 ├── Customer_Behaviour_Dashboard.pbix
 ├── Customer_shopping.ipynb
 ├── README.md
 ├── customer_shopping.sql
 ├── customer_shopping_behavior.csv
 └── dashboard_preview.png
-
----
+```
 
 ## ▶️ How to Run
 
